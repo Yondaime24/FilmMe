@@ -1,0 +1,6 @@
+.scroll2{
+    height: 370px;
+    /**/
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
